@@ -1,0 +1,33 @@
+# Node modules
+node_modules
+
+# Logs
+*.log
+logs
+
+# Environment variables
+.env
+
+# Sequelize files
+sequelize-data.json
+
+# Build output
+dist
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor specific files
+.vscode
+.idea
+
+# Test coverage
+coverage
+
+# npm package lock file
+package-lock.json
+
+# Temporary files
+*.tmp
+*.swp
