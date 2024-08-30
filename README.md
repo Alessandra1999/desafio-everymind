@@ -28,7 +28,7 @@ Nunes Sports é um sistema de gestão de produtos que permite aos usuários exib
 ### Instruções para Rodar o Projeto Localmente
 
 1. Clonar o Repositório
-Para clonar o repositório do projeto, abra o terminal e execute o seguinte comando: git clone https://github.com/Alessandra1999/desafio-everymind.git
+Para clonar o repositório do projeto, abra o terminal e execute o seguinte comando: git clone git@github.com:Alessandra1999/desafio-everymind.git
 
 2. Configurar o Backend
 No terminal, navegar até a pasta "backend" e instalar as dependências com o comando: npm install
